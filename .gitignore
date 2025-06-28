@@ -1,0 +1,15 @@
+# Pythonの仮想環境フォルダ
+venv/
+
+# Pythonが生成するキャッシュファイル
+__pycache__/
+*.py[cod]
+
+# VSCodeの設定フォルダ（あれば）
+.vscode/
+
+# Macのシステムファイル（Mac使ってたら）
+.DS_Store
+
+# それ以外よく無視するファイル
+*.log
