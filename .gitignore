@@ -1,5 +1,5 @@
 # Pythonの仮想環境フォルダ
-venv/
+.venv/
 
 # Pythonが生成するキャッシュファイル
 __pycache__/
